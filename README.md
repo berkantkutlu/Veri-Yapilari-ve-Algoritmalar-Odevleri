@@ -1,1 +1,1 @@
-# Veri-Yapilari-ve-Algoritmalar-devleri
+# Veri Yapilari ve Algoritma Odevleri
